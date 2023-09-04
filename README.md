@@ -1,2 +1,2 @@
 # Machine Learning Algorithms
-A collection of clean and minimal implementatons of machine learning algorithms.
+A collection of clean and minimal implementations of machine learning algorithms.
